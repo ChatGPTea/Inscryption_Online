@@ -1,0 +1,43 @@
+﻿using System;
+using UnityEngine;
+
+namespace FunkyCode.Rendering.Day.Sorting
+{
+    public class SortList
+    {
+        public SortObject[] List = new SortObject[1024];
+
+        public SortList()
+        {
+            Count = 0;
+
+            for (var i = 0; i < List.Length; i++)
+                List[i] = new SortObject();
+        }
+
+        public int Count { private set; get; }
+
+        public void Add(object lightObject, float dist)
+        {
+            if (Count < List.Length)
+            {
+                List[Count] = new SortObject(dist, lightObject);
+                Count++;
+            }
+            else
+            {
+                Debug.LogError("Collider Depth Overhead!");
+            }
+        }
+
+        public void Reset()
+        {
+            Count = 0;
+        }
+
+        public void Sort()
+        {
+            Array.Sort(List, 0, Count, SortObject.Sort());
+        }
+    }
+}

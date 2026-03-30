@@ -1,0 +1,6 @@
+{
+  "role": 1,
+  "httpserver": "http://106.54.11.106:5000/api/",
+  "gameserver": "106.54.11.106",
+  "port": 7777
+}

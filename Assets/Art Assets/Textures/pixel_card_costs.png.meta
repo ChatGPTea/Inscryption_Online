@@ -1,0 +1,774 @@
+fileFormatVersion: 2
+guid: 6a4c0326a2c10f64f8b86069b3024d02
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 55
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bone1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144.9
+        width: 27.25
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0a145c955f47c4ab9a1ce82f88110c
+      internalID: -628856188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 144.9
+        width: 27.25
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f3ec551a5d7924d8571ec30c6afe22
+      internalID: -1915918299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_card_costs_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 144.9
+        width: 27.25
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef21803047d7bb4f95eac582f34c779
+      internalID: 211498054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_card_costs_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 144.9
+        width: 27.25
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a9229610f28884da70e7235d63d1b8
+      internalID: 1607206093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128.9
+        width: 27.25
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ac4ae949b19fe4fb32eacbca8cfb45
+      internalID: 891228136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 128.9
+        width: 27.25
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fbb2cf06792de4cb4379bfcc677d88
+      internalID: -904119806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_card_costs_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 128.9
+        width: 27.25
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37e9356ad2717f449bb07fa9c6016e2
+      internalID: -902795599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_card_costs_7
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 128.9
+        width: 27.25
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c056b02ddc3f340a88718673c2567c
+      internalID: 1819727482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112.9
+        width: 27.25
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596eb28e1b3ae3841912f2320cc59dd7
+      internalID: 1428775357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood3
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 112.9
+        width: 27.25
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e65b29aad469b49b487f59b0e3ee36
+      internalID: -1453755607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_card_costs_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 112.9
+        width: 27.25
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20360d918fb80c45b04d62953846def
+      internalID: 1469487154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_card_costs_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 112.9
+        width: 27.25
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c4d01be4eafd84593191462268a2f9
+      internalID: 1075906974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96.9
+        width: 27.25
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c90c16897fe4a49b66c05c5e5f5a80
+      internalID: -495545969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 96.9
+        width: 27.25
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d71fd05625a27b4fb8e453092aab643
+      internalID: -1237889709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_card_costs_14
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 96.9
+        width: 27.25
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d1c3fd16ab3564dbad4d8e72e7c1c1
+      internalID: -1449412717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_card_costs_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 96.9
+        width: 27.25
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29648470f714b9142bca22b9318f1d54
+      internalID: 1071860564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80.9
+        width: 27.25
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d48443333956f3499189bc6b6a7d612
+      internalID: -1439496395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_card_costs_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 80.9
+        width: 27.25
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d185daf3509aa4a84b62f4e4ad8626
+      internalID: 505416344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_card_costs_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 80.9
+        width: 27.25
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2356f70db86a8794f91a75157895e018
+      internalID: 920377965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c510363252fb5754aab950fe5b301da0
+      internalID: -1856113818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_card_costs_20
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 64.9
+        width: 27.25
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb5ea2ccabab0e4e91523701c0c6872
+      internalID: 1445929789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_card_costs_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 64.9
+        width: 27.25
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acfcf2bafd78554b81fee48dbb65ed6
+      internalID: -149915211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e64544509c17e04fbc4bb1febf55f27
+      internalID: 1921385368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_card_costs_23
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 48.9
+        width: 27.25
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7787f283bc5b1874c9250497ae8f604e
+      internalID: 1555909574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32.9
+        width: 27.25
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee7af082a6e68e408c853e669d42f5a
+      internalID: -1521912060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone11
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 32.9
+        width: 27.25
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19412429798b1ad498a4ec0d1c6195c1
+      internalID: -1242648946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16.9
+        width: 27.25
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316b3e23e4a1e304b9e64578f61b68ee
+      internalID: -768120439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 16.9
+        width: 27.25
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59126254eb2efa742a96b4bd2683d2b4
+      internalID: -1544321233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.8999996
+        width: 27.25
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe346742c275024bbce807fe0fbc289
+      internalID: 892654514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bone13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0.8999996
+        width: 27.25
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f1dc8ad707de34d843009e28861043
+      internalID: 561581134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      blood1: -1915918299
+      blood2: -904119806
+      blood3: -1453755607
+      blood4: -1237889709
+      bone1: -628856188
+      bone10: 892654514
+      bone11: -1242648946
+      bone12: -1544321233
+      bone13: 561581134
+      bone2: 891228136
+      bone3: 1428775357
+      bone4: -495545969
+      bone5: -1439496395
+      bone6: -1856113818
+      bone7: 1921385368
+      bone8: -1521912060
+      bone9: -768120439
+      pixel_card_costs_10: 1469487154
+      pixel_card_costs_11: 1075906974
+      pixel_card_costs_14: -1449412717
+      pixel_card_costs_15: 1071860564
+      pixel_card_costs_17: 505416344
+      pixel_card_costs_18: 920377965
+      pixel_card_costs_2: 211498054
+      pixel_card_costs_20: 1445929789
+      pixel_card_costs_21: -149915211
+      pixel_card_costs_23: 1555909574
+      pixel_card_costs_3: 1607206093
+      pixel_card_costs_6: -902795599
+      pixel_card_costs_7: 1819727482
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
